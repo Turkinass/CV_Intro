@@ -1,2 +1,2 @@
-# CV_Intro
-A presentation for a lightning talk about Computer Vision.
+# Intro to Computer Vision
+Computer Vision is an ML field that aims to enable computers to understand images and videos and make decisions. Computer Vision solutions usually rely on traditional machine learning techniques, like edge or corner detection, or deep learning often using CNN. Each technique has its pros and cons and should be used depending on the situation. Lastly, it is now easier than ever to learn Computer Vision since many universities and publishers shared their resources publicly.
